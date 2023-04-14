@@ -1,1 +1,1 @@
-# figures_phd_thesis
+# Supplementary materials for my PhD thesis
