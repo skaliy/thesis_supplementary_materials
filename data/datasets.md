@@ -1,10 +1,10 @@
-Open datasets used in this thesis: 
+# Open datasets used in this thesis: 
 
-#Lung nodules
+## Lung nodules 
 
 - LIDC-IDRI: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254
 
-#Brain imaging
+## Brain imaging
 
 - ADNI: http://adni.loni.usc.edu
 - AIBL: https://aibl.csiro.au
@@ -14,6 +14,7 @@ Open datasets used in this thesis:
 - Calgary-Campinas: https://sites.google.com/view/calgary-campinas-dataset/home
 - SALD: http://fcon_1000.projects.nitrc.org/indi/retro/sald.html
 
-#Spine
+## Spine
+
 - T2-w MRI scans of the lower spine: https://zenodo.org/record/22304#.ZDlPKtJBw9A
 
