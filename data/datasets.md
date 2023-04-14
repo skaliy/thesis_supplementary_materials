@@ -2,7 +2,7 @@
 
 ## Lung nodules 
 
-- LIDC-IDRI: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254
+- LIDC-IDRI Version 2 data used in this thesis: https://wiki.cancerimagingarchive.net/display/DOI/Standardized+representation+of+the+TCIA+LIDC-IDRI+annotations+using+DICOM
 
 ## Brain imaging
 
