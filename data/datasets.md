@@ -1,4 +1,4 @@
-# Open datasets used in this thesis: 
+# Public datasets used in this thesis: 
 
 ## Lung nodules 
 
